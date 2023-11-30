@@ -1,1 +1,1 @@
-web: gunicorn code-star-2023.wsgi
+web: gunicorn codestar.wsgi
